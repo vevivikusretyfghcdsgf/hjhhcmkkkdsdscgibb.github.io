@@ -3,11 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "590f76bd91941677d276a288c8e4747b",
 "version.json": "fb8890d5e0f18f807233406d3ba88dc6",
 "index.html": "2b00640df5160480ba29fb4ffdc245a7",
 "/": "2b00640df5160480ba29fb4ffdc245a7",
 "main.dart.js": "adbbb6e911abc4179ec1c0e77e3a8161",
+=======
+const RESOURCES = {"flutter_bootstrap.js": "337dc42d11921d31c0feda079e477cf5",
+"version.json": "fb8890d5e0f18f807233406d3ba88dc6",
+"index.html": "2b00640df5160480ba29fb4ffdc245a7",
+"/": "2b00640df5160480ba29fb4ffdc245a7",
+"main.dart.js": "11fee18d3b70988951c8042c17cddfd7",
+>>>>>>> origin/main
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -42,7 +50,10 @@ const RESOURCES = {"flutter_bootstrap.js": "590f76bd91941677d276a288c8e4747b",
 ".git/objects/60/e65a2c218fbeaa180552e2e200731f2de1b4cd": "741a703796b164f71450ffb605f44cf2",
 ".git/objects/60/15e28c6357441128f8459f5e4c61ff3805d5a2": "9745e5a7c92450bbd8f5c01490098629",
 ".git/objects/5a/fce93f279a4bbd78006896182207b9b14cdecb": "0edade263ebf8ee59bf0c504155fe365",
+<<<<<<< HEAD
 ".git/objects/33/21c78aa3270c10038ea11be61cd1d3d3a793dd": "938b65baafaa249a396380fd48bb28c1",
+=======
+>>>>>>> origin/main
 ".git/objects/33/727f9840312457e5c9673adfb4693c17881035": "e689b34d840b6f7ded71a41592a98061",
 ".git/objects/05/afe6da7b02e9d9e555b37c28eb96c55c7ed5da": "6993296a50f2afcb3b83bd10e42e13b7",
 ".git/objects/02/065b819c5479b93c902b1374b730270ce93b1c": "dc562a84f82c1f6953f96b333a158d4f",
@@ -62,7 +73,10 @@ const RESOURCES = {"flutter_bootstrap.js": "590f76bd91941677d276a288c8e4747b",
 ".git/objects/a2/22898798481a62b8563f220d964d10cee9a0a0": "4bff1daea40868c2144082192b647829",
 ".git/objects/bd/dc87268f94846d164f2aebb5a7a7b14918323e": "969e2e5447cb6ef08a85115d1d529ae5",
 ".git/objects/bd/d0dca03ef8fe6a7a46f6908b1bc4febf4640a8": "9d522709e3926532fc5194ab7b1688f0",
+<<<<<<< HEAD
 ".git/objects/d1/bb28c81db32a8219ab788785e63d71004a0579": "ec0b644ee38cfce1ab2ba0194bd52248",
+=======
+>>>>>>> origin/main
 ".git/objects/d1/098e7588881061719e47766c43f49be0c3e38e": "f17e6af17b09b0874aa518914cfe9d8c",
 ".git/objects/d6/9c56691fbdb0b7efa65097c7cc1edac12a6d3e": "868ce37a3a78b0606713733248a2f579",
 ".git/objects/bc/724aa7c335529c2c170f86f854a2fba414d9b2": "c8de6a9fe51192744b133acc3b49cbd0",
@@ -119,7 +133,10 @@ const RESOURCES = {"flutter_bootstrap.js": "590f76bd91941677d276a288c8e4747b",
 ".git/objects/44/b0625fa5801e43c81998854223d1f23711e7dd": "7cea499e582e751687a898a6685eb2cb",
 ".git/objects/2a/a9e7ff3f1411aea7019e68ebd04957e789fb0d": "dcbb9b17aafea5126bdb2d60cbb77752",
 ".git/objects/2f/5081a9852f6cd8acf6b7db6fd2fc812cf8993e": "42ad738830944d52be829e00c8b0d3da",
+<<<<<<< HEAD
 ".git/objects/88/fc935dce9bc5af39f99ec342813a75c6e02a51": "023002b7ff3356abad5e71e1e0451b90",
+=======
+>>>>>>> origin/main
 ".git/objects/88/cfd48dff1169879ba46840804b412fe02fefd6": "e42aaae6a4cbfbc9f6326f1fa9e3380c",
 ".git/objects/07/468c1b3c37c23cae7c1777c4387341495ba3d3": "f7850c74ed6699a3c4ceba5abf931a76",
 ".git/objects/00/c1170f961273ceb4e13b7a3ac7490cbbec9c15": "4b15879e78a8e5749a27674791a60400",
@@ -199,7 +216,10 @@ const RESOURCES = {"flutter_bootstrap.js": "590f76bd91941677d276a288c8e4747b",
 ".git/objects/1d/9bc91c2e6d2dd5dd31ada4445c4e471db9a817": "7e01e3d96dac1a6edc88bd7b04d3f6ea",
 ".git/objects/1d/39521d75045cbdc7a983f86a3c0e009b2a808b": "910951ce02faa05fafb7df104d74b896",
 ".git/objects/1d/1052daaacbb96cd07b3f5359bb12fc300382ee": "b9f22216e10fa31fd91672ab5a35b1e2",
+<<<<<<< HEAD
 ".git/objects/1d/cc3771aa2a5d2c1ea04262de3bb3ca876d5708": "9225f961434f31012bd6e5affc61aa51",
+=======
+>>>>>>> origin/main
 ".git/objects/71/3f932c591e8f661aa4a8e54c32c196262fd574": "66c6c54fbdf71902cb7321617d5fa33c",
 ".git/objects/76/0fb029b314131d10fb0df56bcd9b6725945dce": "89987f05232d7d2177f03dbe604ed987",
 ".git/objects/49/adebdb511c8c293b28db3f6792e5bac28cdc32": "ba6a3971e7f06834fd6ec3844372ce17",
